@@ -1,7 +1,7 @@
 # Progetto_dataset_bibliografico
 # Analisi dei 15 più importanti editori e autori nel periodo compreso tra il 1986 e il 2020.
 ## Descrizione
-Analisi dei dati del dataset bibliografico selezionando un arco temporalo di quasi 40 anni partendo dal 1986 e arrivando ai giorni nostri.
+Analisi dei dati del dataset bibliografico selezionando un arco temporale di quasi 40 anni partendo dal 1986 e arrivando ai giorni nostri.
 Ci siamo posti tre domande da cui poter partire per fare le nostre analisi:
 1) Quali sono gli anni di pubblicazione in cui sono concentrati maggiormente i documenti?
 2) Quali sono gli autori con più prodotti?
