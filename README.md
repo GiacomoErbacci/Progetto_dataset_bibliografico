@@ -6,6 +6,7 @@ Ci siamo posti tre domande da cui poter partire per fare le nostre analisi:
 1) Quali sono gli anni di pubblicazione in cui sono concentrati maggiormente i documenti?
 2) Quali sono gli autori con più prodotti?
 3) Quali sono i maggiori editori?
+
 Abbiamo scoperto che prendendo come campione i primi 15 risultati sulle casi editrici, si giunge alla conclusione che AIB, Unibo e INAPR siano quelle con le maggiori produzioni. Invece, gli autori con il maggior numero di pubblicazioni sono A.Ferrai, G.Solimine e F.Sabba.
 Infine il  maggiore numero di pubblicazioni svolte negli ultimi 30 anni sono state eseguite nel 2020, nel 2014 e nel 2017. 
 
